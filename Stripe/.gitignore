@@ -1,0 +1,6 @@
+/stripefrontend/node_modules
+/stripebackend/node_modules
+
+/stripebackend/.env
+/stripefrontend/.env
+.DS_Store
